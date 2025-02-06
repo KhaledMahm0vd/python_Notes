@@ -1,3 +1,4 @@
 # Python notes from some courses:
-* derek bannas python course.
-* Al Swigart's Automate the boring stuff with python.
+001. Al Swigart's Automate the boring stuff with python.
+002. derek bannas python course.
+
